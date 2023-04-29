@@ -1,21 +1,10 @@
 # WEBSITE ĐẶT PHÒNG KHÁCH SẠN TRỰC TUYẾN
-## thành viên:
-    - Nguyễn Văn Huy - 51900095 
-    - Phạm Duy Khoa - 52100901
-    - Cao Đăng Tình - 52100936
-    - Nguyễn Thị Thanh Thảo - 52000271
 
 ## Các thông tin cần thiết:
 ### Tài khoản ADMIN:
     - username: admin@gmail.com
     - password: 123456
-
-### Tài khoản USER:
-    - username: pham.duykhoa1303@gmail.com
-    - password: khoa1303
-
-### String connect database: 
-    - mongodb+srv://nodejs:gtfrGX2bDJpxMS53@cluster0.4twknsi.mongodb.net/?retryWrites=true&w=majority
+    
 ### Setup database:
     - Hệ thống sử dụng cluster với string connect trên file .env nên khi chạy chương trình tự kết nối với database có sẵn
     - Các sample data của website nằm ở thư mục data đã được đưa lên cluster
